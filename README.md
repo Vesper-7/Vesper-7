@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Vicky, a Data Science student from the UK.
 
-<!--
-**Vesper-7/Vesper-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning all things Data Science related on a Data Science bootcamp including python, SQLite3, Object-oriented programming, Data transformation and manipulation, visualisation and analytics and analysis, Machine learning and developping prediction models.
+- 👯 I’m looking to collaborate on any projects that might help or further my knowledge of Data Science.
+- 😄 Pronouns: She/her.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vhall-data-science/).
 
-- 🔭 I’m currently working on ...
-### 🌱 I’m currently learning all things Data Science related on a Data Science bootcamp
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-### 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
+
+
+
